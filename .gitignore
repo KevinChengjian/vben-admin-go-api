@@ -18,3 +18,9 @@ main
 output/
 manifest/output/
 temp/
+main.exe
+main.exe~
+storage/logs/
+storage/upload/
+manifest/config/config.yaml.env
+hack/config.yaml.env
